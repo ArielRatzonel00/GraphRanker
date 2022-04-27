@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/ProogettoApi.dir/main.c.o  -o ProogettoApi 
