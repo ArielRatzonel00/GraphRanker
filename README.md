@@ -1,5 +1,6 @@
 # GraphRanker
 
+Final project of the `Algorithm and Principles of Computer Science` course (Politecnico di Milano)
 The objective of the project is to write a program in **C** that manages the ranking of weighted graphs. 
 The ranking keeps track of the "best" `k` graphs. The program
 receives (located in the first line of the input file) two parameters that represent the number of nodes of the graphs `d` and the length of the ranking `k`,
