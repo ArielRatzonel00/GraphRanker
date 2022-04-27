@@ -8,7 +8,7 @@ followed by a sequence of commands between:
 - `AddGraph [adjacency matrix]`
 - `TopK`
 
-`d`and 'k` are representable with 32-bit integers.
+`d`and `k` are representable with 32-bit integers.
 
 ## Comamands
 
@@ -29,4 +29,4 @@ AddGraph
 
 ### TopK
 
-The command considers each graph from the beginning of the program until this command. 'TopK' requires that the program prints the index of the 'k' graphs that have the 'k' minimum value for the sum of minimum paths starting from node 0 to the other nodes. If there are nodes with same value, the program should give more relevance to the graph that entered in the rank before. The distances that aren't reachable from node 0 are considered null. The 'k' indexes are printed in one line separated by a space, in any order.
+`TopK` considers each graph from the beginning of the program until this command. 'TopK' requires that the program prints the index of the `k` graphs that have the `k` minimum value for the sum of minimum paths starting from node 0 to the other nodes. If there are nodes with same value, the program should give more relevance to the graph that entered in the rank before. The distances that aren't reachable from node 0 are considered null. The `k` indexes are printed in one line separated by a space, in any order.
