@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/ProogettoApi.dir/mnt/c/Users/ariel/CLionProjects/Api-Project-2021/main.c.o  -o ProogettoApi 
