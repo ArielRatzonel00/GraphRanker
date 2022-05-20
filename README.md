@@ -11,7 +11,7 @@ followed by a sequence of commands between:
 
 `d`and `k` are representable with 32-bit integers.
 
-## Comamands
+## Commands
 
 ### AddGraph
 
